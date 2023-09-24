@@ -5,7 +5,6 @@
 
 - Ask me about **React, Node, Django & Community Building**
 
-- You can know more about me at [faakhir-portfolio.vercel.app](https://faakhir-portfolio.vercel.app/)
 
 - How to reach me **zahidfaakhir@gmail.com**
 <h3 align="left">Connect with me:</h3>
