@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faakhir Ul Hassan Zahid</h1>
-<h3 align="center">A fervent Web dev whiz who adores crafting spotless and scalable code</h3>
+<h3 align="center">A SWE who adores crafting spotless and scalable code</h3>
 
 - I’m currently working on **a few personal projects.**
-
-- Ask me about **React, Node, Django & Community Building**
-
 
 - How to reach me **zahidfaakhir@gmail.com**
 <h3 align="left">Connect with me:</h3>
